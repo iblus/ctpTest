@@ -1,0 +1,21 @@
+__pycache__/*
+.vs
+.vscode
+Debug
+
+# Python编译文件
+*.pyc
+*.pyo
+
+# 其他文件
+*.*sdf
+*.bak
+*.exe
+*.ilk
+*.pdb
+*.con
+*.csv
+
+!.gitignore
+
+
